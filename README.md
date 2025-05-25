@@ -35,7 +35,7 @@ Please msg me for details.
 - Select the `curseforge-profile.zip` you just downloaded
 - Hit play and enjoy join my server
 
-![play button image](image.png)
+![play button image](./screenshots/play.png)
 
 ### Customizing Your Profile
 
