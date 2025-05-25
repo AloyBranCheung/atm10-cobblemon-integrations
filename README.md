@@ -8,6 +8,11 @@ Base:
 
 ## Users
 
+### Pre-requisites
+
+- Have curseforge client installed
+- Own a Java minecraft account
+
 ### Joining the server details
 
 Please msg me for details.
