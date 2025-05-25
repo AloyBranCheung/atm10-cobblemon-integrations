@@ -37,6 +37,11 @@ Please msg me for details.
 
 ![play button image](./screenshots/play.png)
 
+> [!Note]
+> When you first enter the world you may need to fix some key configurations as there will be
+> some clashes e.g. to get your starter cobblemon you need to fix your map binding conflict
+> `key: m` and select cobblemon starter `key: m`
+
 ### Customizing Your Profile
 
 You can customize your profile (e.g. the name and ram allocation) by right-clicking your profile and clicking `Profile Options`.
