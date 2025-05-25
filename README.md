@@ -8,11 +8,29 @@ Base:
 
 ## Users
 
-- Download the curseforge-profile.zip
+### Joining the server details
+
+Please msg me for details.
+
+### Minecraft Client Setup
+
+- Download the curseforge-profile.zip (click the file and click the download icon)
+
+![download button image](./screenshots/download.png)
+
 - Go to the curseforge client > minecraft > `My Modpacks`
+
+![my modpacks image](./screenshots/my-modpacks.png)
+
 - Under `My Modpacks` there should be an `Import` option
 - Click `Import` and select `Import profile .zip`
+
+![import image](./screenshots/import.png)
+
 - Select the `curseforge-profile.zip` you just downloaded
+- Hit play and enjoy join my server
+
+![play button image](image.png)
 
 ### Customizing Your Profile
 
@@ -39,8 +57,8 @@ You can customize your profile (e.g. the name and ram allocation) by right-click
 #### Updating Curseforge Profile
 
 1. Install ATM10 modpack (check start of readme file for mc and neoforge versions). This will be the `Master` profile.
-> [!Caution]
-> Don't run this master profile as it will create starter files.
+   > [!Caution]
+   > Don't run this master profile as it will create starter files.
 2. Copy the extra mods to the 'Master' profile and then export and select all files from that profile to export
 3. Commit and upload the new profile to the repo
 4. Ask users to update their local profiles from `mods.zip` or re-import new profile (not tested if this will keep users progress on server but should since it is tracked by unique names)
