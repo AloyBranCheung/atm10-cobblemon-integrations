@@ -41,6 +41,7 @@ Please msg me for details.
 > When you first enter the world you may need to fix some key configurations as there will be
 > some clashes e.g. to get your starter cobblemon you need to fix your map binding conflict
 > `key: m` and select cobblemon starter `key: m`
+> Also make sure to enable the XaerosCobblemon resource pack to see pokemon on the minimap!
 
 ### Customizing Your Profile
 
