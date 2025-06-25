@@ -67,9 +67,9 @@ You can customize your profile (e.g. the name and ram allocation) by right-click
 
 #### Updating Curseforge Profile
 
-1. Install ATM10 modpack (check start of readme file for mc and neoforge versions). This will be the `Master` profile.
+1. Install ATM10 modpack (check start of readme file for mc and neoforge versions). Or unzip the current `curesforge-profile.zip`. This will be the `Master` profile.
    > [!Caution]
    > Don't run this master profile as it will create starter files.
 2. Copy the extra mods to the 'Master' profile and then export and select all files from that profile to export
 3. Commit and upload the new profile to the repo
-4. Ask users to update their local profiles from `mods.zip` or re-import new profile (not tested if this will keep users progress on server but should since it is tracked by unique names)
+4. Ask users to update their local profiles from `mods.zip` or re-import new profile (not tested if this will keep users progress on server but shouldn't since it is tracked by unique names)
